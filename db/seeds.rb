@@ -4,3 +4,5 @@ Task.create([
   { title: "Unpack the bag" },
   { title: "Edit the pics & write to Tatiana!" }
 ])
+
+puts "Seeded #{Task.count} Tasks!"
